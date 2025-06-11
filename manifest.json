@@ -1,0 +1,11 @@
+{
+  "domain": "dimmer_node_8ch",
+  "name": "DIMMER NODE 8ch",
+  "codeowners": ["@SoFarSoGood86"],
+  "documentation": "https://github.com/SoFarSoGood86/dimmer_node_8ch",
+  "iot_class": "local_push",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "config_flow": true
+}
